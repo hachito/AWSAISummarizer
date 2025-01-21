@@ -1,2 +1,2 @@
 # AWSBedrockSummarizer
-Simplifies texts of articles
+I made this to practice using tools like AI and AWS applications.
