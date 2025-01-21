@@ -1,2 +1,2 @@
-# AWSBedrockSummarizer
+# AWSAIkSummarizer
 I made this to practice using AI and AWS applications. The project itself takes an article link as input and output a paragraph summary, which the user can then access later through a database. This required use of Amazon Bedrock, as this was the cheaper option between either Bedrock or Q, and the model used was Anthropic Claude Sonnet 3.5 v2. I saved the summaries in AWS DynamoDB, which was my first experience using a noSQL database.
